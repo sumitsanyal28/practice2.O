@@ -98,3 +98,18 @@ body{
         width: 25;
     };
 }
+
+.form{
+    margin-top: 300px;
+    margin-left: 400px;
+    text-transform: capitalize;
+    color: aqua;
+    z-index: 1;
+    
+    position: absolute;
+    width: 320px;
+    text-align: center;
+    
+    
+    
+}
