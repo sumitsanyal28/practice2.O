@@ -63,6 +63,22 @@ body{
     margin-top: 30px;*/
     margin-bottom: 5px;
 }
+.submit button {
+
+    float: left;
+    background-color: #4CAF50; /* Green */
+    margin-left: 200px;
+    margin-top: 525px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    
+    text-align: center;
+    text-decoration: solid;
+    
+    font-size: 16px;
+    
+  }
 @media screen and (min-width:600px){
     .tile img{
         width: 100%;
